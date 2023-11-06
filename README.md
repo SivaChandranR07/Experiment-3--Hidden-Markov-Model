@@ -46,5 +46,3 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 
 ## Result:
 Thus, the Hidden Markov Model to identify the sequence of Hidden states is executed successfully.
-
-Thus, the Hidden Markov Model to identify the sequence of Hidden states  is executed successfully 
